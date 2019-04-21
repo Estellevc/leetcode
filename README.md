@@ -1,1 +1,2 @@
 # leetcode
+更新自己平时leetcode刷题以及学到的比较好的解题方法
